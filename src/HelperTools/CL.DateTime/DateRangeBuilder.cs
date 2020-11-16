@@ -14,7 +14,7 @@ namespace DateTimeCL
         private readonly DateRangeSettings _dateRange = new DateRangeSettings();
 
         /// <summary>
-        /// Generates range of dates between two dates or for period of time with optional exclusion of the start or end or both start and end date
+        /// Generates range of dates between two dates or for period of time with optional exclusion of the start or end or both start and end date!
         /// </summary>
         /// <param name="start"></param>
         /// <param name="end"></param>
