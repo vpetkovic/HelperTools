@@ -346,7 +346,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "restore": {
       "projectUniqueName": "V:\\OneDrive\\Files\\Dev\\Personal\\Platform\\CodeBase\\[Open Source]\\HelperTools\\src\\HelperTools\\CL.DateTime\\CL.DateTime.csproj",
       "projectName": "CL.DateTime",
