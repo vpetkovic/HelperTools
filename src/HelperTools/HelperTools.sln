@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CL.DateTime", "CL.DateTime\CL.DateTime.csproj", "{DE3431C7-AFC2-4B23-B266-DBA098571072}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sinks", "Sinks", "{27F315FF-7453-4CAE-A56B-EB57B215006E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CL.Sinks.SqlServer", "CL.Sinks.SqlServer\CL.Sinks.SqlServer.csproj", "{04D48B04-DBC6-45A5-991D-87D3868BB060}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CL.Sinks.MySql", "CL.Sinks.MySql\CL.Sinks.MySql.csproj", "{6CB7D5A7-FCA5-418D-8FBB-49281C60ADB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE3431C7-AFC2-4B23-B266-DBA098571072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE3431C7-AFC2-4B23-B266-DBA098571072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE3431C7-AFC2-4B23-B266-DBA098571072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE3431C7-AFC2-4B23-B266-DBA098571072}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04D48B04-DBC6-45A5-991D-87D3868BB060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04D48B04-DBC6-45A5-991D-87D3868BB060}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04D48B04-DBC6-45A5-991D-87D3868BB060}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04D48B04-DBC6-45A5-991D-87D3868BB060}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CB7D5A7-FCA5-418D-8FBB-49281C60ADB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CB7D5A7-FCA5-418D-8FBB-49281C60ADB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CB7D5A7-FCA5-418D-8FBB-49281C60ADB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CB7D5A7-FCA5-418D-8FBB-49281C60ADB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{04D48B04-DBC6-45A5-991D-87D3868BB060} = {27F315FF-7453-4CAE-A56B-EB57B215006E}
+		{6CB7D5A7-FCA5-418D-8FBB-49281C60ADB8} = {27F315FF-7453-4CAE-A56B-EB57B215006E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC134221-D4F0-48AA-BB36-EEE4DAAB68D1}
+	EndGlobalSection
+EndGlobal
