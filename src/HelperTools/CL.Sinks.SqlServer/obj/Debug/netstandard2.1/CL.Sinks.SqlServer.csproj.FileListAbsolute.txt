@@ -1,0 +1,9 @@
+V:\OneDrive\Files\Dev\Personal\Platform\CodeBase\[Open Source]\HelperTools\src\HelperTools\CL.Sinks.SqlServer\bin\Debug\netstandard2.1\CL.Sinks.SqlServer.deps.json
+V:\OneDrive\Files\Dev\Personal\Platform\CodeBase\[Open Source]\HelperTools\src\HelperTools\CL.Sinks.SqlServer\bin\Debug\netstandard2.1\CL.Sinks.SqlServer.dll
+V:\OneDrive\Files\Dev\Personal\Platform\CodeBase\[Open Source]\HelperTools\src\HelperTools\CL.Sinks.SqlServer\bin\Debug\netstandard2.1\CL.Sinks.SqlServer.pdb
+V:\OneDrive\Files\Dev\Personal\Platform\CodeBase\[Open Source]\HelperTools\src\HelperTools\CL.Sinks.SqlServer\obj\Debug\netstandard2.1\CL.Sinks.SqlServer.csprojAssemblyReference.cache
+V:\OneDrive\Files\Dev\Personal\Platform\CodeBase\[Open Source]\HelperTools\src\HelperTools\CL.Sinks.SqlServer\obj\Debug\netstandard2.1\CL.Sinks.SqlServer.AssemblyInfoInputs.cache
+V:\OneDrive\Files\Dev\Personal\Platform\CodeBase\[Open Source]\HelperTools\src\HelperTools\CL.Sinks.SqlServer\obj\Debug\netstandard2.1\CL.Sinks.SqlServer.AssemblyInfo.cs
+V:\OneDrive\Files\Dev\Personal\Platform\CodeBase\[Open Source]\HelperTools\src\HelperTools\CL.Sinks.SqlServer\obj\Debug\netstandard2.1\CL.Sinks.SqlServer.csproj.CoreCompileInputs.cache
+V:\OneDrive\Files\Dev\Personal\Platform\CodeBase\[Open Source]\HelperTools\src\HelperTools\CL.Sinks.SqlServer\obj\Debug\netstandard2.1\CL.Sinks.SqlServer.dll
+V:\OneDrive\Files\Dev\Personal\Platform\CodeBase\[Open Source]\HelperTools\src\HelperTools\CL.Sinks.SqlServer\obj\Debug\netstandard2.1\CL.Sinks.SqlServer.pdb

@@ -1,0 +1,9 @@
+V:\OneDrive\Files\Dev\Personal\Platform\CodeBase\[Open Source]\HelperTools\src\HelperTools\CL.Sinks.MySql\bin\Release\netstandard2.1\CL.Sinks.MySql.deps.json
+V:\OneDrive\Files\Dev\Personal\Platform\CodeBase\[Open Source]\HelperTools\src\HelperTools\CL.Sinks.MySql\bin\Release\netstandard2.1\CL.Sinks.MySql.dll
+V:\OneDrive\Files\Dev\Personal\Platform\CodeBase\[Open Source]\HelperTools\src\HelperTools\CL.Sinks.MySql\bin\Release\netstandard2.1\CL.Sinks.MySql.pdb
+V:\OneDrive\Files\Dev\Personal\Platform\CodeBase\[Open Source]\HelperTools\src\HelperTools\CL.Sinks.MySql\obj\Release\netstandard2.1\CL.Sinks.MySql.csprojAssemblyReference.cache
+V:\OneDrive\Files\Dev\Personal\Platform\CodeBase\[Open Source]\HelperTools\src\HelperTools\CL.Sinks.MySql\obj\Release\netstandard2.1\CL.Sinks.MySql.AssemblyInfoInputs.cache
+V:\OneDrive\Files\Dev\Personal\Platform\CodeBase\[Open Source]\HelperTools\src\HelperTools\CL.Sinks.MySql\obj\Release\netstandard2.1\CL.Sinks.MySql.AssemblyInfo.cs
+V:\OneDrive\Files\Dev\Personal\Platform\CodeBase\[Open Source]\HelperTools\src\HelperTools\CL.Sinks.MySql\obj\Release\netstandard2.1\CL.Sinks.MySql.csproj.CoreCompileInputs.cache
+V:\OneDrive\Files\Dev\Personal\Platform\CodeBase\[Open Source]\HelperTools\src\HelperTools\CL.Sinks.MySql\obj\Release\netstandard2.1\CL.Sinks.MySql.dll
+V:\OneDrive\Files\Dev\Personal\Platform\CodeBase\[Open Source]\HelperTools\src\HelperTools\CL.Sinks.MySql\obj\Release\netstandard2.1\CL.Sinks.MySql.pdb
