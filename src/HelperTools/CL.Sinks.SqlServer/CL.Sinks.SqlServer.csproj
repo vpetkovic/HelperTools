@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.1</TargetFramework>
+    <TargetFrameworks>netstandard2.0;netstandard2.1</TargetFrameworks>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Description>Dapper helper library for streamlined retrieval and posting of data via SP and queries using SqlServer data provider.</Description>
     <Copyright>2020</Copyright>
@@ -10,6 +10,7 @@
     <PackageTags>dapper sqlserver helpers</PackageTags>
     <PackageReleaseNotes>Initial release</PackageReleaseNotes>
     <Version>1.0.1</Version>
+    <Authors>Vojislav Petkovic</Authors>
   </PropertyGroup>
 
   <ItemGroup>

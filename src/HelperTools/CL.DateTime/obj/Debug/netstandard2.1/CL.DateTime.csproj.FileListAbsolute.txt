@@ -1,9 +1,0 @@
-V:\OneDrive\Files\Dev\Personal\Platform\CodeBase\[Open Source]\HelperTools\src\HelperTools\CL.DateTime\obj\Debug\netstandard2.1\CL.DateTime.csprojAssemblyReference.cache
-V:\OneDrive\Files\Dev\Personal\Platform\CodeBase\[Open Source]\HelperTools\src\HelperTools\CL.DateTime\obj\Debug\netstandard2.1\CL.DateTime.AssemblyInfoInputs.cache
-V:\OneDrive\Files\Dev\Personal\Platform\CodeBase\[Open Source]\HelperTools\src\HelperTools\CL.DateTime\obj\Debug\netstandard2.1\CL.DateTime.AssemblyInfo.cs
-V:\OneDrive\Files\Dev\Personal\Platform\CodeBase\[Open Source]\HelperTools\src\HelperTools\CL.DateTime\obj\Debug\netstandard2.1\CL.DateTime.csproj.CoreCompileInputs.cache
-V:\OneDrive\Files\Dev\Personal\Platform\CodeBase\[Open Source]\HelperTools\src\HelperTools\CL.DateTime\bin\Debug\netstandard2.1\CL.DateTime.deps.json
-V:\OneDrive\Files\Dev\Personal\Platform\CodeBase\[Open Source]\HelperTools\src\HelperTools\CL.DateTime\bin\Debug\netstandard2.1\CL.DateTime.dll
-V:\OneDrive\Files\Dev\Personal\Platform\CodeBase\[Open Source]\HelperTools\src\HelperTools\CL.DateTime\bin\Debug\netstandard2.1\CL.DateTime.pdb
-V:\OneDrive\Files\Dev\Personal\Platform\CodeBase\[Open Source]\HelperTools\src\HelperTools\CL.DateTime\obj\Debug\netstandard2.1\CL.DateTime.dll
-V:\OneDrive\Files\Dev\Personal\Platform\CodeBase\[Open Source]\HelperTools\src\HelperTools\CL.DateTime\obj\Debug\netstandard2.1\CL.DateTime.pdb
