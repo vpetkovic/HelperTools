@@ -9,6 +9,6 @@ Fell free to reuse, extend and improve any. 🤘
 
 [![Build Status](https://dev.azure.com/vpetkovic/HelperTools/_apis/build/status/HelperTools/HelperTools-CI?branchName=master)](https://dev.azure.com/vpetkovic/HelperTools/_build/latest?definitionId=2&branchName=master)
 
-![Nuget](https://img.shields.io/nuget/dt/CL.Sinks.MySql?label=CL.Sinks.MySql%20Downloads)
+- ![Nuget](https://img.shields.io/nuget/dt/CL.Sinks.MySql?label=CL.Sinks.MySql%20Downloads)
 <br>`Install-Package CL.Sinks.MySql -Version 1.0.1`
 
