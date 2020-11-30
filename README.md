@@ -5,6 +5,5 @@ I finally decided to create new solution, that will unify all those helpers and 
 
 Fell free to reuse, extend and improve any. 🤘
 
-#NuGet
-
+## NuGet
 `Install-Package CL.Sinks.MySql -Version 1.0.1`
