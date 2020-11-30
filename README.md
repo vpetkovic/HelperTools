@@ -12,3 +12,7 @@ Fell free to reuse, extend and improve any. 🤘
 - ![Nuget](https://img.shields.io/nuget/dt/CL.Sinks.MySql?label=CL.Sinks.MySql%20Downloads)
 <br>`Install-Package CL.Sinks.MySql -Version 1.0.1`
 
+- ![Nuget](https://img.shields.io/nuget/dt/CL.Sinks.SqlServer?label=%20CL.Sinks.SqlServer%20Downloads)
+<br> `Install-Package CL.Sinks.SqlServer -Version 1.0.1`
+
+
