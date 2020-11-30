@@ -12,7 +12,6 @@ namespace CL.Sinks.SqlServer
 {
     public interface ISqlDataAccess
     {
-        IDbConnection MySqlConn(string connName = "Default");
         IDbConnection MSSqlConn(string connName = "Default");
         Task<List<T>> LoadFromSqlAsync<T, T1>(string sql, T1 parameters, string connName = "Default");
         Task<List<T>> LoadFromStoredProcedureAsync<T, T1>(string storedProcedure, T1 parameters, string connName = "Default");
@@ -68,11 +67,6 @@ namespace CL.Sinks.SqlServer
             {
                 conn.Execute(storedProcedure, parameters, commandType: CommandType.StoredProcedure);
             }
-        }
-
-        public IDbConnection MySqlConn(string connName = "Default")
-        {
-            throw new NotImplementedException();
         }
     }
 }
