@@ -4,3 +4,7 @@ from other projects or I just type it in each time. Yes, I know, I failed DRY pr
 I finally decided to create new solution, that will unify all those helpers and organize them into class libraries and NuGet packages.
 
 Fell free to reuse, extend and improve any. 🤘
+
+#NuGet
+
+`Install-Package CL.Sinks.MySql -Version 1.0.1`
