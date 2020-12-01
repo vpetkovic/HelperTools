@@ -10,12 +10,12 @@ Fell free to reuse, extend and improve any. 🤘
 [![Build status](https://dev.azure.com/vpetkovic/HelperTools/_apis/build/status/HelperTools/HelperTools)](https://dev.azure.com/vpetkovic/HelperTools/_build/latest?definitionId=3)
 
 - ![Nuget](https://img.shields.io/nuget/dt/CL.Sinks.MySql?label=CL.Sinks.MySql%20Downloads)
-<br>`Install-Package CL.Sinks.MySql -Version 1.1.2`
+<br>`Install-Package CL.Sinks.MySql -Version 1.1.3`
 
 - ![Nuget](https://img.shields.io/nuget/dt/CL.Sinks.SqlServer?label=%20CL.Sinks.SqlServer%20Downloads)
-<br> `Install-Package CL.Sinks.SqlServer -Version 1.1.2`
+<br> `Install-Package CL.Sinks.SqlServer -Version 1.1.3`
 
 - ![Nuget](https://img.shields.io/nuget/dt/CL.DateTime?label=%20CL.DateTime%20Downloads)
-<br> `Install-Package CL.DateTime -Version 1.1.2`
+<br> `Install-Package CL.DateTime -Version 1.1.3`
 
 
